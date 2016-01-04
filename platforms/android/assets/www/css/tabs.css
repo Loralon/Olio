@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+/************** TABS PULSANTI ************/
+
+.tab-item {
+	color:#FFF;
+	background-color: #009554;
+    font-size: 1.4em !important;
+    font-weight: bold;
+	margin-right: 3%;
+    border-radius: 3px;
+    margin-left: 3%;
+	max-width: 41%;
+}
+
+.territorio { 
+    background: url(../img/test.jpg) no-repeat left top fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;	
+}
+
+.tabs {background: transparent;}
+
+.bar {background-color:transparent !important; color:#f2f2f2;}
+
+.tabs.tabs-icon-left.tabs-top {top: 15%; /*height: 6%;*/}
+
+
+
+.item {
+    border-color: #ddd;
+    background-color: #f2f2f2;
+    color: #444;
+    position: relative;
+    z-index: 2;
+    display: block;
+    margin: -1px;
+    padding: 7% 16px;
+    border-width: 1px;
+    border-style: solid;
+    font-size: 16px;
+}
+
+
+.list {
+    position: relative;
+    padding-top: 25%;
+    padding-bottom: 1px;
+    padding-left: 0;
+    margin-bottom: 20px;
+}
+
+
+/*	<div class="tabs tabs-icon-left tabs-top">
+  
+  <a class="tab-item" href="templates/page5.html">
+    <i class="tab_text"></i>
+    Itinerario
+  </a>
+  <a class="tab-item" href="templates/page6.html">
+    <i class="tab_text"></i>
+    Luoghi
+  </a>
+</div>*/

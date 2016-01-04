@@ -1,0 +1,99 @@
+@charset "UTF-8";
+
+
+.button-block {
+    /*position: absolute;*/
+    width: 92% !important;
+    left: 4%;
+    background-color:rgba(0,0,0,0.7) !important;
+    background-size: 100% auto;
+	border:none;
+	border-radius: 6px;
+}
+
+.button_territorio {
+	/*top: 25%;*/
+	background: url(../img/button_territorio.png) no-repeat;
+	background-size: 100% auto;
+}
+
+.button_prodotti {
+	/*top: 40%;*/
+	background: url(../img/button_prodotti.png) no-repeat;
+	background-size: 100% auto;
+}
+
+.button_aziende {
+	/*top: 55%;*/
+	background: url(../img/button_aziende.png) no-repeat;
+	background-size: 100% auto;
+}
+
+/************** CANINO ************/
+
+.canino { 
+    background: url(../img/canino.jpg) no-repeat left top fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;	
+}
+
+.footerz_info_canino {
+	background: url(../img/button_info_canino.png) no-repeat;
+	background-size: 100% auto;
+	position:absolute;
+	bottom:0px;}
+	
+
+
+/************** TUSCIA ************/
+
+.tuscia { 
+    background: url(../img/tuscia.jpg) no-repeat left top fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;	
+}
+
+.footerz_info_tuscia {
+	background: url(../img/button_info_tuscia.png) no-repeat;
+	background-size: 100% auto;
+	position:absolute;
+	bottom:0px;}
+	
+
+/************** PONTINO ************/
+
+.pontino { 
+    background: url(../img/pontino.jpg) no-repeat left top fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;	
+}
+
+.footerz_info_pontino {
+	background: url(../img/button_info_pontino.png) no-repeat;
+	background-size: 100% auto;
+	position:absolute;
+	bottom:0px;}
+	
+
+
+/************** SABINA ************/
+
+.sabina { 
+    background: url(../img/sabina.jpg) no-repeat left top fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;	
+}
+
+.footerz_info_sabina {
+	background: url(../img/button_info_sabina.png) no-repeat;
+	background-size: 100% auto;
+	position:absolute;
+	bottom:0px;}

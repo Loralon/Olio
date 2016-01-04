@@ -1,0 +1,75 @@
+@charset "UTF-8";
+/*.home_ita { 
+    background: url(../img/home_ita.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}*/
+
+.pane {background-color:#f2f2f2;}
+
+.padding {
+    padding: 0px;
+}
+
+.has-tabs-top {
+    top: 0px;
+}
+
+.has-tabs {bottom:0px;}
+
+.scroll {height: 100%;}
+
+.home_eng { 
+    background: url(../img/home_eng.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	
+}
+
+
+.header {
+	background: url(../img/home_ita__01.png) no-repeat;
+    background-size: 100% auto; 
+    
+}
+.body { 
+    background: url(../img/home_ita__02.png) no-repeat;
+    background-size: 100% auto;
+	position:relative;
+}
+.footerz { 
+    background: url(../img/home_ita__03.png) no-repeat;
+    background-size: 100% auto;
+	position:absolute;
+	bottom:0px;
+}
+
+.footerz_en {
+	background: url(../img/home_eng__03.png) no-repeat;
+	background-size: 100% auto;
+	position:absolute;
+	bottom:0px;}
+
+.tab-nav {display:none;}
+
+
+/************** PULSANTI ************/
+
+.canino_button {position: absolute; top: 8.3%; left: 8%; width: 20%; height: 16%; background: url(../img/button_zona_off.png) no-repeat; background-size: 100% auto; border: none}
+.canino_button.activated {background: url(../img/button_canino_on.png) no-repeat; background-size: 100% auto; background-color:transparent; border: none; box-shadow:none;}
+
+.tuscia_button {position: absolute; top: 21.3%; left: 31%; width: 20%; height: 19%; background: url(../img/button_zona_off.png) no-repeat; background-size: 100% auto; border: none}
+.tuscia_button.activated {background: url(../img/button_tuscia_on.png) no-repeat; background-size: 100% auto; background-color:transparent; border: none; box-shadow:none;}
+
+.sabina_button {position: absolute;top: 33.2%;  left: 53.6%; width: 20%; height: 19%; background: url(../img/button_zona_off.png) no-repeat; background-size: 100% auto; border: none}
+.sabina_button.activated {background: url(../img/button_sabina_on.png) no-repeat; background-size: 100% auto; background-color:transparent; border: none; box-shadow:none;}
+
+
+.pontino_button {position: absolute; top: 67%; left: 61%; width: 20%; height: 19%; background: url(../img/button_zona_off.png) no-repeat; background-size: 100% auto; border: none}
+.pontino_button.activated {background: url(../img/button_pontino_on.png) no-repeat; background-size: 100% auto; background-color:transparent; border: none; box-shadow:none;}
+
+
